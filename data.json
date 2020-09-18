@@ -673,18 +673,6 @@
   },
   {
     "Product Line": "Wireline Tools and Flow Control",
-    "Product Family": "Flow Control",
-    "Product Model": "",
-    "Facility Name": "Elmar Singapore",
-    "Part No": "B218-010",
-    "Description": "2\" AL Running Tool (1.85\" OD)",
-    "Net QTY": 1,
-    "Overstock Unit Price": 3500,
-    "Overstock Ext Price": 3500,
-    "2020 Incentive unit Price": 2450
-  },
-  {
-    "Product Line": "Wireline Tools and Flow Control",
     "Product Family": "Wireline Tools",
     "Product Model": "",
     "Facility Name": "Elmar Singapore",
@@ -781,18 +769,6 @@
   },
   {
     "Product Line": "Wireline Tools and Flow Control",
-    "Product Family": "Flow Control",
-    "Product Model": "",
-    "Facility Name": "Elmar Singapore",
-    "Part No": 9831093717,
-    "Description": "1.875\" ATL Top No-Go Lock,  AISI 4140 80KSI, Std Seals",
-    "Net QTY": 1,
-    "Overstock Unit Price": 4500,
-    "Overstock Ext Price": 4500,
-    "2020 Incentive unit Price": 3150
-  },
-  {
-    "Product Line": "Wireline Tools and Flow Control",
     "Product Family": "Wireline Tools",
     "Product Model": "",
     "Facility Name": "Elmar Singapore",
@@ -802,30 +778,6 @@
     "Overstock Unit Price": 1853,
     "Overstock Ext Price": 1853,
     "2020 Incentive unit Price": 1853
-  },
-  {
-    "Product Line": "Wireline Tools and Flow Control",
-    "Product Family": "Flow Control",
-    "Product Model": "",
-    "Facility Name": "Elmar Singapore",
-    "Part No": "17887531-001",
-    "Description": "2.562\" PR Equalizing Prong and Housing, 17-4PH 105KSI",
-    "Net QTY": 1,
-    "Overstock Unit Price": 3100,
-    "Overstock Ext Price": 3100,
-    "2020 Incentive unit Price": 2805
-  },
-  {
-    "Product Line": "Wireline Tools and Flow Control",
-    "Product Family": "Flow Control",
-    "Product Model": "",
-    "Facility Name": "Elmar Singapore",
-    "Part No": "17887532-001",
-    "Description": "2.562\" R Lock, 17-4 PH 105KSI",
-    "Net QTY": 1,
-    "Overstock Unit Price": 4662,
-    "Overstock Ext Price": 4662,
-    "2020 Incentive unit Price": 4661
   },
   {
     "Product Line": "Wireline Tools and Flow Control",
@@ -982,5 +934,53 @@
     "Overstock Unit Price": 2933,
     "Overstock Ext Price": 2933,
     "2020 Incentive unit Price": 2055
+  },
+  {
+    "Product Line": "Wireline Tools and Flow Control",
+    "Product Family": "Flow Control",
+    "Product Model": "",
+    "Facility Name": "Elmar Singapore",
+    "Part No": "B218-010",
+    "Description": "2\" AL Running Tool (1.85\" OD)",
+    "Net QTY": 1,
+    "Overstock Unit Price": 3500,
+    "Overstock Ext Price": 3500,
+    "2020 Incentive unit Price": 2450
+  },
+  {
+    "Product Line": "Wireline Tools and Flow Control",
+    "Product Family": "Flow Control",
+    "Product Model": "",
+    "Facility Name": "Elmar Singapore",
+    "Part No": 9831093717,
+    "Description": "1.875\" ATL Top No-Go Lock,  AISI 4140 80KSI, Std Seals",
+    "Net QTY": 1,
+    "Overstock Unit Price": 4500,
+    "Overstock Ext Price": 4500,
+    "2020 Incentive unit Price": 3150
+  },
+  {
+    "Product Line": "Wireline Tools and Flow Control",
+    "Product Family": "Flow Control",
+    "Product Model": "",
+    "Facility Name": "Elmar Singapore",
+    "Part No": "17887531-001",
+    "Description": "2.562\" PR Equalizing Prong and Housing, 17-4PH 105KSI",
+    "Net QTY": 1,
+    "Overstock Unit Price": 3100,
+    "Overstock Ext Price": 3100,
+    "2020 Incentive unit Price": 2805
+  },
+  {
+    "Product Line": "Wireline Tools and Flow Control",
+    "Product Family": "Flow Control",
+    "Product Model": "",
+    "Facility Name": "Elmar Singapore",
+    "Part No": "17887532-001",
+    "Description": "2.562\" R Lock, 17-4 PH 105KSI",
+    "Net QTY": 1,
+    "Overstock Unit Price": 4662,
+    "Overstock Ext Price": 4662,
+    "2020 Incentive unit Price": 4661
   }
 ]
