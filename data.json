@@ -301,42 +301,6 @@
     "2020 Incentive Unit Price": 1350000
   },
   {
-    "Product Line": "Hydration Units",
-    "Product Family": "",
-    "Product Model": "HT‐270",
-    "Facility Name": "Rolligon Anderson",
-    "Part No": "",
-    "Description": "Trailer Mounted 270 BBL Hydration, T4F",
-    "Net QTY": 2,
-    "Overstock Unit Price": 600000,
-    "Overstock Ext Price": 1200000,
-    "2020 Incentive Unit Price": 600000
-  },
-  {
-    "Product Line": "Liquid Additive Systems (LAS)",
-    "Product Family": "",
-    "Product Model": "CIT‐3511",
-    "Facility Name": "Rolligon Anderson",
-    "Part No": "",
-    "Description": "Trailer Mounted LAS, 10 auto circuits, T4F",
-    "Net QTY": 2,
-    "Overstock Unit Price": 600000,
-    "Overstock Ext Price": 1200000,
-    "2020 Incentive Unit Price": 600000
-  },
-  {
-    "Product Line": "Manifolds",
-    "Product Family": "",
-    "Product Model": "4IT‐1510",
-    "Facility Name": "Rolligon Anderson",
-    "Part No": "",
-    "Description": "Manifold Trailer, 10 Station",
-    "Net QTY": 2,
-    "Overstock Unit Price": 200000,
-    "Overstock Ext Price": 400000,
-    "2020 Incentive Unit Price": 200000
-  },
-  {
     "Product Line": "Proppant Handling",
     "Product Family": "SandBank",
     "Product Model": "SB3",
