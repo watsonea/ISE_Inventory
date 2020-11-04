@@ -335,6 +335,18 @@
     "Overstock Ext Price": 3750000,
     "2020 Incentive Unit Price": 3750000
   },
+    {
+    "Product Line": "Cementing",
+    "Product Family": "Twin Cement Pump Trailer",
+    "Product Model": "WCP-1330W",
+    "Facility Name": "Wilco Duncan",
+    "Part No": "",
+    "Description": "TRAILER, CEMENT PUMPER, TWIN, 665 HP 16L VOLVO DIESEL, ALLISON 4750 OFS, WEIR SPM TWS600S HD",
+    "Net QTY": 1,
+    "Overstock Unit Price": 1249000,
+    "Overstock Ext Price": 1249000,
+    "2020 Incentive Unit Price": 1249000
+  },
   {
     "Product Line": "Wireline Winches and Masts",
     "Product Family": "Winch Unit",
