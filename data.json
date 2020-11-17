@@ -352,18 +352,6 @@
     "Product Family": "Winch Unit",
     "Product Model": "LandLine D",
     "Facility Name": "Elmar Aberdeen",
-    "Part No": 6931088901,
-    "Description": "LandLine D wireline winch, integral power pack, dual drum, RigSafe",
-    "Net QTY": 2,
-    "Overstock Unit Price": 340000,
-    "Overstock Ext Price": 680000,
-    "2020 Incentive Unit Price": 285000
-  },
-  {
-    "Product Line": "Wireline Winches and Masts",
-    "Product Family": "Winch Unit",
-    "Product Model": "LandLine D",
-    "Facility Name": "Elmar Aberdeen",
     "Part No": 6931092703,
     "Description": "LandLine D wireline winch, integral power pack, dual drum, Zone II",
     "Net QTY": 1,
@@ -426,7 +414,7 @@
     "Facility Name": "Elmar Aberdeen",
     "Part No": "6901014831V04",
     "Description": "SkyFold wireline mast, lightweight, 70ft column, includes intensifier power pack assembly",
-    "Net QTY": 2,
+    "Net QTY": 1,
     "Overstock Unit Price": 285000,
     "Overstock Ext Price": 570000,
     "2020 Incentive Unit Price": 220000
