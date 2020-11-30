@@ -340,6 +340,18 @@
     "Product Family": "Winch Unit",
     "Product Model": "LandLine D",
     "Facility Name": "Elmar Aberdeen",
+    "Part No": 6931088901,
+    "Description": "LandLine D wireline winch, integral power pack, dual drum, RigSafe",
+    "Net QTY": 2,
+    "Overstock Unit Price": 340000,
+    "Overstock Ext Price": 680000,
+    "2020 Incentive Unit Price": 285000
+  },
+  {
+    "Product Line": "Wireline Winches and Masts",
+    "Product Family": "Winch Unit",
+    "Product Model": "LandLine D",
+    "Facility Name": "Elmar Aberdeen",
     "Part No": 6931092703,
     "Description": "LandLine D wireline winch, integral power pack, dual drum, Zone II",
     "Net QTY": 1,
@@ -402,7 +414,7 @@
     "Facility Name": "Elmar Aberdeen",
     "Part No": "6901014831V04",
     "Description": "SkyFold wireline mast, lightweight, 70ft column, includes intensifier power pack assembly",
-    "Net QTY": 1,
+    "Net QTY": 2,
     "Overstock Unit Price": 285000,
     "Overstock Ext Price": 570000,
     "2020 Incentive Unit Price": 220000
@@ -958,5 +970,29 @@
     "Overstock Unit Price": 4662,
     "Overstock Ext Price": 4662,
     "2020 Incentive Unit Price": 4661
+  },
+  {
+    "Product Line": "Wireline Winches and Masts",
+    "Product Family": "Winch Unit",
+    "Product Model": "SV2-140P",
+    "Facility Name": "DynaWinch Calgary",
+    "Part No": "25510 / 255511",
+    "Description": "Double Drum, Rig Safe wireline Winch, with integral power pack",
+    "Net QTY": 2,
+    "Overstock Unit Price": 372000,
+    "Overstock Ext Price": 744000,
+    "2020 Incentive Unit Price": 250000
+  },
+  {
+    "Product Line": "Wireline Winch and Mast",
+    "Product Family": "Winch Unit",
+    "Product Model": "LV2-050i",
+    "Facility Name": "DynaWinch Calgary",
+    "Part No": 25518,
+    "Description": "Single Drum iMaxx Pump Down Logging Unit, c/w Side Kick connections. Mounted on 2019 Peterbuilt Tier 4 Chassis",
+    "Net QTY": 1,
+    "Overstock Unit Price": "530,800",
+    "Overstock Ext Price": 530800,
+    "2020 Incentive Unit Price": 425000
   }
 ]
