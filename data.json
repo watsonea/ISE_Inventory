@@ -414,7 +414,7 @@
     "Facility Name": "Elmar Houston",
     "Part No": "",
     "Description": "5 1/8-in. bore wireline pressure control set, 10K, triple compact BOP, Elmar E32 various accessories",
-    "Net QTY": 4,
+    "Net QTY": 3,
     "Overstock Unit Price": 239171,
     "Overstock Ext Price": 956684,
     "2020 Incentive Unit Price": 184161
@@ -426,7 +426,7 @@
     "Facility Name": "Elmar Houston",
     "Part No": "",
     "Description": "5 1/8-in. bore wireline pressure control set, 10K, dual compact BOP, Elmar E32, various accessories",
-    "Net QTY": 2,
+    "Net QTY": 1,
     "Overstock Unit Price": 212931,
     "Overstock Ext Price": 425862,
     "2020 Incentive Unit Price": 163957
@@ -447,25 +447,13 @@
     "Product Line": "Wireline Pressure Control Equipment",
     "Product Family": "Wireline Pressure Control Equipment",
     "Product Model": "",
-    "Facility Name": "Elmar Houston",
+    "Facility Name": "Elmar Aberdeen",
     "Part No": "",
     "Description": "3-in. bore wireline pressure control set, 10K, lightweight, triple  BOP, Elmar E09, various accessories",
     "Net QTY": 3,
     "Overstock Unit Price": 170202,
     "Overstock Ext Price": 510606,
     "2020 Incentive Unit Price": 131055
-  },
-  {
-    "Product Line": "WPCE Controls",
-    "Product Family": "Pressure Test Unit",
-    "Product Model": "800 Series",
-    "Facility Name": "Elmar Aberdeen",
-    "Part No": "690646-V01",
-    "Description": "15K Portable pressure test unit, 30 litre capacity",
-    "Net QTY": 1,
-    "Overstock Unit Price": 13850,
-    "Overstock Ext Price": 13850,
-    "2020 Incentive Unit Price": 10000
   },
   {
     "Product Line": "WPCE Controls",
