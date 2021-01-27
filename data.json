@@ -30,34 +30,10 @@
     "Facility Name": "Fidmash Belarus",
     "Part No": "",
     "Description": "MK30T-50 CTU, MZKT 10x10 truck, 80K injector, 3,06 10K PCE, winterized, air-conditioners, extra heaters, and spare parts, green",
-    "Net QTY": 1,
-    "Overstock Unit Price": 1130000,
-    "Overstock Ext Price": 1130000,
-    "2020 Incentive Unit Price": 1000000
-  },
-  {
-    "Product Line": "Coiled Tubing Units",
-    "Product Family": "Coiled Tubing Units",
-    "Product Model": "MK30T",
-    "Facility Name": "Fidmash Belarus",
-    "Part No": "",
-    "Description": "MK30T-50 CTU, MZKT 10x10 truck, 80K injector, 3,06 10K PCE, winterized, air-conditioners, extra heaters, and spare parts, green",
-    "Net QTY": 1,
-    "Overstock Unit Price": 1250000,
-    "Overstock Ext Price": 1250000,
-    "2020 Incentive Unit Price": 1070000
-  },
-  {
-    "Product Line": "Coiled Tubing Units",
-    "Product Family": "Coiled Tubing Units",
-    "Product Model": "MK40T",
-    "Facility Name": "Fidmash Belarus",
-    "Part No": "",
-    "Description": "MK40T CTU, IVECO 10x10 truck, 100K injector, 4,06 10K PCE, winterized, air-conditioners, blue",
     "Net QTY": 2,
-    "Overstock Unit Price": 1290000,
-    "Overstock Ext Price": 2580000,
-    "2020 Incentive Unit Price": 1150000
+    "Overstock Unit Price": 1130000,
+    "Overstock Ext Price": 2260000,
+    "2020 Incentive Unit Price": 1050000
   },
   {
     "Product Line": "Coiled Tubing Units",
