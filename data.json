@@ -5,18 +5,6 @@
     "Product Model": "Genesis",
     "Facility Name": "Hydra Rig Fort Worth",
     "Part No": "",
-    "Description": "31194 Single Trailer 2558 CTU w/ Support Trailer (Used)",
-    "Net QTY": 1,
-    "Overstock Unit Price": 2500000,
-    "Overstock Ext Price": 2500000,
-    "2021 Incentive Unit Price": 2500000
-  },
-  {
-    "Product Line": "Coiled Tubing Units",
-    "Product Family": "Coiled Tubing Units",
-    "Product Model": "Genesis",
-    "Facility Name": "Hydra Rig Fort Worth",
-    "Part No": "",
     "Description": "31212 Dual Trailer 2558 CTU",
     "Net QTY": 1,
     "Overstock Unit Price": 4000000,
@@ -58,18 +46,6 @@
     "Overstock Unit Price": 505000,
     "Overstock Ext Price": 505000,
     "2021 Incentive Unit Price": 479750
-  },
-  {
-    "Product Line": "Coiled Tubing Units",
-    "Product Family": "Coiled Tubing Reels",
-    "Product Model": "",
-    "Facility Name": "Hydra Rig Fort Worth",
-    "Part No": "CD403010",
-    "Description": "Tubing reel with transport stand",
-    "Net QTY": 1,
-    "Overstock Unit Price": 282950,
-    "Overstock Ext Price": 282950,
-    "2021 Incentive Unit Price": 240507.5
   },
   {
     "Product Line": "Coiled Tubing Units",
