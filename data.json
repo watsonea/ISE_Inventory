@@ -42,9 +42,9 @@
     "Facility Name": "Hydra Rig Fort Worth",
     "Part No": "",
     "Description": "HR680 Includes slings and  Hydraulic Fold Gooseneck",
-    "Net QTY": 2,
+    "Net QTY": 1,
     "Overstock Unit Price": 240000,
-    "Overstock Ext Price": 480000,
+    "Overstock Ext Price": 240000,
     "2021 Incentive Unit Price": 150000
   },
   {
@@ -230,10 +230,10 @@
   {
     "Product Line": "Frac Pumpers",
     "Product Family": "",
-    "Product Model": "QPT?2501",
+    "Product Model": "QPT‐2501",
     "Facility Name": "Rolligon Anderson",
     "Part No": "",
-    "Description": "Trailer Mounted Frac, T4F QSK50 with TD8500 and SPM QWS?2500",
+    "Description": "Trailer Mounted Frac, T4F QSK50 with TD8500 and SPM QWS‐2500",
     "Net QTY": "Multiple",
     "Overstock Unit Price": "-",
     "Overstock Ext Price": "-",
@@ -242,10 +242,10 @@
   {
     "Product Line": "Frac Pumpers",
     "Product Family": "",
-    "Product Model": "QPT?2501",
+    "Product Model": "QPT‐2501",
     "Facility Name": "Rolligon Anderson",
     "Part No": "",
-    "Description": "Trailer Mounted Frac, T4F QSK50 with TH55?E70 and SPM QWS?2500",
+    "Description": "Trailer Mounted Frac, T4F QSK50 with TH55‐E70 and SPM QWS‐2500",
     "Net QTY": "Multiple",
     "Overstock Unit Price": "-",
     "Overstock Ext Price": "-",
