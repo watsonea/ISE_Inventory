@@ -117,7 +117,7 @@
     "Net QTY": 2,
     "Overstock Unit Price": 325000,
     "Overstock Ext Price": 650000,
-    "2021 Incentive Unit Price": ""
+    "2021 Incentive Unit Price": 325000
   },
   {
     "Product Line": "Coiled Tubing Units",
@@ -127,9 +127,9 @@
     "Part No": "",
     "Description": "166\" OD x 84\" Core x 72\" Width DID Reel Spool and Offshore Reel Drive Stand",
     "Net QTY": 1,
-    "Overstock Unit Price": 34800,
+    "Overstock Unit Price": 348000,
     "Overstock Ext Price": 348000,
-    "2021 Incentive Unit Price": ""
+    "2021 Incentive Unit Price": 348000
   },
   {
     "Product Line": "Coiled Tubing PCE",
