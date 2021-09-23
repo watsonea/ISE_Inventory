@@ -108,6 +108,30 @@
     "2021 Incentive Unit Price": 75000
   },
   {
+    "Product Line": "Coiled Tubing Units",
+    "Product Family": "Coiled Tubing Work Reels",
+    "Product Model": "",
+    "Facility Name": "Hydra Rig Calgary",
+    "Part No": "",
+    "Description": "142” OD x 80” Core x72” Width DID Reel Spool and Offshore Reel Drive Stand",
+    "Net QTY": 2,
+    "Overstock Unit Price": 325000,
+    "Overstock Ext Price": 650000,
+    "2021 Incentive Unit Price": ""
+  },
+  {
+    "Product Line": "Coiled Tubing Units",
+    "Product Family": "Coiled Tubing Work Reels",
+    "Product Model": "",
+    "Facility Name": "Hydra Rig Calgary",
+    "Part No": "",
+    "Description": "166\" OD x 84\" Core x 72\" Width DID Reel Spool and Offshore Reel Drive Stand",
+    "Net QTY": 1,
+    "Overstock Unit Price": 34800,
+    "Overstock Ext Price": 348000,
+    "2021 Incentive Unit Price": ""
+  },
+  {
     "Product Line": "Coiled Tubing PCE",
     "Product Family": "Accessories",
     "Product Model": "CE56",
