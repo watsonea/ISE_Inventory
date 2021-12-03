@@ -38,18 +38,6 @@
   {
     "Product Line": "Coiled Tubing Units",
     "Product Family": "Coiled Tubing Injectors",
-    "Product Model": "HR6120",
-    "Facility Name": "Hydra Rig Calgary",
-    "Part No": "",
-    "Description": "HR6120 Includes lifting bale and 100\" Hydraulic Fold Gooseneck",
-    "Net QTY": 1,
-    "Overstock Unit Price": 409300,
-    "Overstock Ext Price": 409300,
-    "2021 Incentive Unit Price": 409300
-  },
-  {
-    "Product Line": "Coiled Tubing Units",
-    "Product Family": "Coiled Tubing Injectors",
     "Product Model": "HR680",
     "Facility Name": "Hydra Rig Fort Worth",
     "Part No": "",
@@ -82,18 +70,6 @@
     "Overstock Unit Price": 321740,
     "Overstock Ext Price": 321740,
     "2021 Incentive Unit Price": 273490
-  },
-  {
-    "Product Line": "Coiled Tubing Units",
-    "Product Family": "Wet Kits",
-    "Product Model": "",
-    "Facility Name": "Hydra Rig Calgary",
-    "Part No": "",
-    "Description": "Available w/o Western Star Tractor (Price does not include tractor)",
-    "Net QTY": 1,
-    "Overstock Unit Price": 266250,
-    "Overstock Ext Price": 266250,
-    "2021 Incentive Unit Price": 266250
   },
   {
     "Product Line": "Coiled Tubing Units",
@@ -135,7 +111,7 @@
     "Product Line": "Coiled Tubing Units",
     "Product Family": "Coiled Tubing Work Reels",
     "Product Model": "",
-    "Facility Name": "Hydra Rig Calgary",
+    "Facility Name": "Hydra Rig Fort Worth",
     "Part No": "",
     "Description": "166\" OD x 84\" Core x 72\" Width DID Reel Spool and Offshore Reel Drive Stand",
     "Net QTY": 1,
@@ -148,60 +124,12 @@
     "Product Family": "Accessories",
     "Product Model": "CE56",
     "Facility Name": "Texas Oil Tools Conroe",
-    "Part No": "M6TOT-CE56X159XB",
-    "Description": "FLOW X:5 12 15M BX169 X 1502 S&N",
-    "Net QTY": 1,
-    "Overstock Unit Price": 24916,
-    "Overstock Ext Price": 24916,
-    "2021 Incentive Unit Price": 19932.8
-  },
-  {
-    "Product Line": "Coiled Tubing PCE",
-    "Product Family": "Accessories",
-    "Product Model": "CE56",
-    "Facility Name": "Texas Oil Tools Conroe",
-    "Part No": "M6TOT-CE56X166B",
+    "Part No": "M60TOT-CE56X166B",
     "Description": "FLOW X:5 12 15M BX169 W/2\" BX152",
     "Net QTY": 2,
     "Overstock Unit Price": 24916,
     "Overstock Ext Price": 49832,
     "2021 Incentive Unit Price": 19932.8
-  },
-  {
-    "Product Line": "Coiled Tubing PCE",
-    "Product Family": "Accessories",
-    "Product Model": "CE56",
-    "Facility Name": "Texas Oil Tools Conroe",
-    "Part No": "M6TOT-CE56X166B",
-    "Description": "FLOW CROSS:3.06 15M W/1502 SO",
-    "Net QTY": 1,
-    "Overstock Unit Price": 24916,
-    "Overstock Ext Price": 24916,
-    "2021 Incentive Unit Price": 19932.8
-  },
-  {
-    "Product Line": "Coiled Tubing PCE",
-    "Product Family": "Accessories",
-    "Product Model": "CE34",
-    "Facility Name": "Texas Oil Tools Conroe",
-    "Part No": "M6TOT-CE34X142B",
-    "Description": "FLOW CROSS:3.06 10M BX154 X WECO",
-    "Net QTY": 1,
-    "Overstock Unit Price": 4599,
-    "Overstock Ext Price": 4599,
-    "2021 Incentive Unit Price": 3679.2
-  },
-  {
-    "Product Line": "Coiled Tubing PCE",
-    "Product Family": "Blowout Preventers (BOPs)",
-    "Product Model": "ES56",
-    "Facility Name": "Hydra Rig Calgary",
-    "Part No": "M60TOT-ES56N613X",
-    "Description": "5 1/8” 15K Dual Combi BOPs",
-    "Net QTY": 3,
-    "Overstock Unit Price": 247880,
-    "Overstock Ext Price": 743640,
-    "2021 Incentive Unit Price": 198304
   },
   {
     "Product Line": "Nitrogen Pumping",
